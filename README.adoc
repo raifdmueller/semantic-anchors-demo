@@ -90,6 +90,7 @@ To also wipe the database, remove `./db/data/` afterwards.
 === Further reading
 
 * https://llm-coding.github.io/Semantic-Anchors/[Semantic Anchors site]
+* https://llm-coding.github.io/vibe-coding-risk-radar/[Vibe Coding Risk Radar] — a framework for systematically identifying and categorizing risks of AI-generated code
 * https://rdmueller.github.io/pages/blog.html[Ralf D. Müller — Blog]
 * https://unifiedprocess.ai/[Martinelli Unified Process]
 * https://doctoolchain.org[docToolchain] — docs-as-code toolchain
