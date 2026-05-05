@@ -46,6 +46,8 @@ This is especially useful if you’re starting to apply software architecture pr
 
 https://llm-coding.github.io/Semantic-Anchors/
 
+image::https://rdmueller.github.io/images/semantic-anchors-network-peak.png[]
+
 == Setup
 
 === Prerequisites
